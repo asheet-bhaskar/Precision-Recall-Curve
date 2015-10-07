@@ -1,0 +1,3 @@
+This matlab code is to plot a Precision Recall Curve for 5 Query images. 
+Each image histogram(CDH) h1,h2,h3,h4 and h5 (text file) corresponds to an query image.
+database.txt is small feature database of 32 images, have 32 histograms(CDHs).
